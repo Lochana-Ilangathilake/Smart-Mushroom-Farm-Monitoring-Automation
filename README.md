@@ -1,2 +1,92 @@
-# Smart-Mushroom-Farm-Monitoring-Automation
-IoT-based smart farming system using ESP32, sensors, Firebase, and real-time web/mobile dashboards
+# Smart Mushroom Cultivation System  
+### IoT-Based Greenhouse Monitoring & Automation
+
+An IoT-powered smart farming system designed to monitor and control environmental conditions for mushroom cultivation using ESP32, sensors, Firebase, and real-time web & mobile dashboards.
+
+---
+
+## Overview
+
+Mushroom cultivation requires precise control of environmental factors such as temperature, humidity, CO₂ levels, and light. Manual monitoring is inefficient and often leads to inconsistent yields.
+
+This project introduces a **real-time, automated greenhouse monitoring system** that enables farmers to remotely monitor and control conditions using web and mobile applications.
+
+---
+
+## Problem
+
+- Lack of continuous environmental monitoring  
+- Dependence on manual methods  
+- No proper data recording or analysis  
+- No remote monitoring capability  
+- High labor effort and inefficiency  
+
+---
+
+## Solution
+
+This system provides:
+
+- Real-time environmental monitoring using sensors  
+- Cloud-based data storage with Firebase  
+- Interactive web dashboard for visualization  
+- Mobile application for remote access  
+- Automated control of greenhouse conditions  
+
+---
+
+## System Architecture
+
+Sensors → ESP32 → Firebase → Web Dashboard & Mobile App → Actuators
+
+The system follows a layered IoT architecture:
+- **Sensor Layer** – Collects environmental data  
+- **Processing Layer** – ESP32 processes and sends data  
+- **Cloud Layer** – Firebase stores and syncs data  
+- **Application Layer** – Web & mobile interfaces  
+- **Actuation Layer** – Controls fans, humidifiers, etc.  
+
+---
+
+## Tech Stack
+
+### Hardware
+- ESP32 Microcontroller  
+- DHT11 (Temperature & Humidity Sensor)  
+- MQ-135 (Gas/CO₂ Sensor)  
+- LDR (Light Sensor)  
+
+### Backend
+- Firebase Realtime Database  
+- Firebase Authentication  
+
+### Web Dashboard
+- React + Vite  
+- Tailwind CSS  
+- Recharts (Data Visualization)  
+
+### Mobile Application
+- Android (Java)  
+- MVVM Architecture  
+- Firebase Integration  
+
+---
+
+## Key Features
+
+- Real-time temperature & humidity monitoring  
+- Live data visualization with charts  
+- Remote monitoring via mobile app  
+- Threshold-based alerts & notifications  
+- Historical data tracking  
+- Manual & automatic actuator control  
+- User authentication system  
+
+---
+## Repository Structure
+
+- **Documentation/** → Detailed technical docs, setup guides, testing reports 
+- **Firebase/** → Database rules and configs  
+- **Hardware/** → ESP32 Arduino code and sensor integration  
+- **Smart Mushroom Web Dashboard/** → Web interface code  
+- **Smart_Mushroom_Mobile_App/** → Will be added in a **separate repository**  

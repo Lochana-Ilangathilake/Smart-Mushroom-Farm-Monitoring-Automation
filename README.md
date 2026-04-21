@@ -89,8 +89,8 @@ The system follows a layered IoT architecture:
 ---
 ## Repository Structure
 
-- **Documentation/** → Detailed technical docs, setup guides, testing reports 
-- **Firebase/** → Database rules and configs  
-- **Hardware/** → ESP32 Arduino code and sensor integration  
-- **Smart Mushroom Web Dashboard/** → Web interface code  
-- **Smart_Mushroom_Mobile_App/** → Will be added in a **separate repository**  
+- **Documentation** → Detailed technical docs, setup guides, testing reports 
+- **Firebase** → Database rules and configs  
+- **Hardware** → ESP32 Arduino code and sensor integration  
+- **Smart Mushroom Web Dashboard** → Web interface code  
+- **Smart_Mushroom_Mobile_App** → Will be added in a **separate repository**  

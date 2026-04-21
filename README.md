@@ -55,6 +55,7 @@ The system follows a layered IoT architecture:
 - DHT11 (Temperature & Humidity Sensor)  
 - MQ-135 (Gas/CO₂ Sensor)  
 - LDR (Light Sensor)  
+![image alt](https://github.com/Lochana-Ilangathilake/Smart-Mushroom-Farm-Monitoring-Automation/blob/30e56230ef61f213c2d4099a5a0af2b0a5985b81/Hardware/ESP32%20Relay%20modules%20and%20breadboard%20connections.jpeg)
 
 ### Backend
 - Firebase Realtime Database  
@@ -66,12 +67,13 @@ The system follows a layered IoT architecture:
 - React + Vite  
 - Tailwind CSS  
 - Recharts (Data Visualization)  
- (https://github.com/Lochana-Ilangathilake/Smart-Mushroom-Farm-Monitoring-Automation/blob/4d34faa62624d0fcda9969b0b86b84dd719f3cef/Documentation/web%20dashboard.png)
+ ![image alt](https://github.com/Lochana-Ilangathilake/Smart-Mushroom-Farm-Monitoring-Automation/blob/4d34faa62624d0fcda9969b0b86b84dd719f3cef/Documentation/web%20dashboard.png)
+
 ### Mobile Application
 - Android (Java)  
 - MVVM Architecture  
 - Firebase Integration  
-
+![image alt](https://github.com/Lochana-Ilangathilake/Smart-Mushroom-Farm-Monitoring-Automation/blob/30e56230ef61f213c2d4099a5a0af2b0a5985b81/Documentation/mobile%20dashboard.png)
 ---
 
 ## Key Features

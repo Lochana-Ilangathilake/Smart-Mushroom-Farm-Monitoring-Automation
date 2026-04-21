@@ -60,6 +60,8 @@ The system follows a layered IoT architecture:
 - Firebase Realtime Database  
 - Firebase Authentication  
 
+![image alt](https://github.com/Lochana-Ilangathilake/Smart-Mushroom-Farm-Monitoring-Automation/blob/70d3a7f6886be7e97245bef2029bf4424ac8c067/Firebase/Firebase%20data.png)
+
 ### Web Dashboard
 - React + Vite  
 - Tailwind CSS  

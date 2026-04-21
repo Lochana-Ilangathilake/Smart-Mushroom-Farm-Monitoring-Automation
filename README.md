@@ -66,7 +66,7 @@ The system follows a layered IoT architecture:
 - React + Vite  
 - Tailwind CSS  
 - Recharts (Data Visualization)  
-
+ (https://github.com/Lochana-Ilangathilake/Smart-Mushroom-Farm-Monitoring-Automation/blob/4d34faa62624d0fcda9969b0b86b84dd719f3cef/Documentation/web%20dashboard.png)
 ### Mobile Application
 - Android (Java)  
 - MVVM Architecture  
